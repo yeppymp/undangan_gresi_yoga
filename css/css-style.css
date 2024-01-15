@@ -105,7 +105,7 @@ p {
 }
 
 h1 {
-  color: #304058;
+  color: #1083ad;
   font-family: "Depan", Arial, sans-serif;
   font-weight: 400;
   margin: 0 0 20px 0;
@@ -117,7 +117,7 @@ h4,
 h5,
 h6,
 figure {
-  color: #304058;
+  color: #1083ad;
   font-family: "Serif", Arial, sans-serif;
   font-weight: 400;
   margin: 0 0 20px 0;
@@ -395,8 +395,8 @@ figure {
   top: 0;
   left: 0;
   right: 0;
-  background: rgb(5, 55, 66);
-  background: linear-gradient(0deg, rgba(5, 55, 66, 1) 0%, rgba(5, 55, 66, 0) 100%);
+  background: rgb(16, 131, 173);
+  background: linear-gradient(0deg, rgba(16, 131, 173, 1) 0%, rgba(16, 131, 173, 0) 100%);
 }
 
 .fh5co-cover>.fh5co-container {
@@ -486,7 +486,7 @@ figure {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(5, 55, 66, 0.8);
+  background: rgba(16, 131, 173, 0.8);
 }
 
 @media screen and (max-width: 768px) {
@@ -522,7 +522,7 @@ figure {
 
   #fh5co-counter .event-wrap,
   #fh5co-event .event-wrap {
-    margin-bottom: 10px;
+    margin-bottom: 16px;
   }
 }
 
@@ -2182,7 +2182,28 @@ form label {
   margin-top: 16px;
 }
 .payments .payment p {
-  color: #304058;
+  color: #1083ad;
   text-align: center;
   font-family: sans-serif;
+}
+
+.additional {
+  color: white;
+  text-align: center;
+}
+.additional h4 {
+  margin-top: 16px;
+  font-weight: bold;
+  color: white;
+}
+.additional:first-child h4 {
+  margin-top: 32px;
+}
+.additional ol,
+.additional ul {
+  text-align: left;
+}
+.additional li,
+.additional p {
+  font-size: 1.4rem;
 }

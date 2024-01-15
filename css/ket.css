@@ -5,7 +5,7 @@
 	object-position: center;
 	margin-bottom: 10px;
 	border-radius: 10px;
-	background-color: #304058;
+	background-color: #1083ad;
 }
 
 footer {
@@ -17,7 +17,7 @@ footer {
 	text-align: center;
 	align-items: center;
 	justify-content: center;
-	background-color: #304058;
+	background-color: #1083ad;
 }
 
 footer p {
@@ -198,7 +198,7 @@ footer p {
 	left: 0;
 	bottom: 0;
 	width: 100%;
-	background: #053742;
+	background: #1083ad;
 
 }
 
@@ -286,7 +286,7 @@ footer p {
 }
 
 .streaming.mdc-button.mdc-button--raised {
-	background: #304058;
+	background: #1083ad;
 }
 
 .material-icons.mdc-button__icon {
@@ -539,12 +539,12 @@ footer p {
 
 /* KEHADIRAN */
 .Akan.Hadir {
-	background: #304058;
+	background: #1083ad;
 	color: #fff;
 }
 
 .Berhalangan.Hadir {
-	background: #304058;
+	background: #1083ad;
 	color: #ECD662;
 }
 
