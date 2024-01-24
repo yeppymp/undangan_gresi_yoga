@@ -5,7 +5,7 @@
 	object-position: center;
 	margin-bottom: 10px;
 	border-radius: 10px;
-	background-color: #1083ad;
+	background-color: #191919;
 }
 
 footer {
@@ -17,7 +17,7 @@ footer {
 	text-align: center;
 	align-items: center;
 	justify-content: center;
-	background-color: #1083ad;
+	background-color: #191919;
 }
 
 footer p {
@@ -198,7 +198,7 @@ footer p {
 	left: 0;
 	bottom: 0;
 	width: 100%;
-	background: #1083ad;
+	background: #191919;
 
 }
 
@@ -286,7 +286,7 @@ footer p {
 }
 
 .streaming.mdc-button.mdc-button--raised {
-	background: #1083ad;
+	background: #191919;
 }
 
 .material-icons.mdc-button__icon {
@@ -315,7 +315,7 @@ footer p {
 .file-upload .file-select {
 	display: block;
 	border: 2px solid #dce4ec;
-	color: #34495e;
+	color: #252525;
 	cursor: pointer;
 	height: 40.4px;
 	line-height: 40px;
@@ -340,7 +340,7 @@ footer p {
 }
 
 .file-upload .file-select:hover {
-	border-color: #34495e;
+	border-color: #252525;
 	transition: all .2s ease-in-out;
 	-moz-transition: all .2s ease-in-out;
 	-webkit-transition: all .2s ease-in-out;
@@ -348,7 +348,7 @@ footer p {
 }
 
 .file-upload .file-select:hover .file-select-button {
-	background: #34495e;
+	background: #252525;
 	color: #FFFFFF;
 	transition: all .2s ease-in-out;
 	-moz-transition: all .2s ease-in-out;
@@ -393,7 +393,7 @@ footer p {
 	cursor: default;
 	display: block;
 	border: 2px solid #dce4ec;
-	color: #34495e;
+	color: #252525;
 	cursor: pointer;
 	height: 40px;
 	line-height: 40px;
@@ -539,12 +539,12 @@ footer p {
 
 /* KEHADIRAN */
 .Akan.Hadir {
-	background: #1083ad;
+	background: #191919;
 	color: #fff;
 }
 
 .Berhalangan.Hadir {
-	background: #1083ad;
+	background: #191919;
 	color: #ECD662;
 }
 
